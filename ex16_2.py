@@ -26,3 +26,5 @@ target.write(f"{line1}\n{line2}\n{line3}\n")
 
 print("And finally, we close it.")
 target.close()
+
+#adding a comment for test purposes
